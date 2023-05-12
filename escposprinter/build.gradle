@@ -7,11 +7,11 @@ def libraryVersionCode = 3003000
 def libraryVersionName = "3.3.0"
 
 android {
-    compileSdkVersion 33
+    compileSdkVersion 31
 
     defaultConfig {
         minSdkVersion 16
-        targetSdkVersion 33
+        targetSdkVersion 31
         versionCode libraryVersionCode
         versionName libraryVersionName
 
